@@ -1,0 +1,176 @@
+things to do:
+
+fake rat connector, test ch/chip/etc
+	test chip by reverse red/blue
+help jingjie's final presentation, sorting figs
+	more results, etc
+read raster
+	is there easy way to make it by trial?
+change wrapper, tempate,etc
+	think about data structure
+	ask about database, would be lot of easier with db
+	file name etc
+go home and get the sausage, before 6
+plot of learning
+3 tyhpe of tuning, strong for 1 dir
+only lef or right, only up, down, strange. should be prob with not enought directions, maybe just boarder tunign curve.
+
+tunig gradually change when cue. 150 200ms, maybe too slow? check with other papers
+
+updated monday:
+
+ephys cable connector
+decid if raw data not perfect or sorting not perfect
+	check summary of raw data
+	std,mean, median .. etc
+intergrate raster in daemon
+	also mksure has writing permission
+	saving mat
+
+
+
+potential research areas
+	sensory stuff
+		vision
+		hearing
+		olfactory/taste
+		somatic
+	perferably, vision, and on perception/cognitive level
+	method, ephys,fmri,modeling of neuron, circuits, cog
+	
+	above are bio realistic,
+	maybe pure computational?
+	vision perception model, non bio realistic
+		3d vision and depth
+		pattern, edge stuff
+		low level vision, attention, may go back to biorealistic	
+	
+	learning n memory
+		goes back to where im at before
+		cell/molecular, but with modeling
+		behavioral modeling, with phamocology manipulation,
+			or with ephys etc
+
+	relate to computation but not pure ones
+		cant validate, etc
+
+
+
+phd location, postdoc location
+adrine mcgilla
+buzhaki
+david rasd minisoda
+tony zador cold spring
+brody
+
+sop path, steps , diff apporach
+ben scott, tank brody,at bu 
+dan dombeck, chicago
+mark cegeraves,chicago
+chris oregon
+david marr
+
+
+read more, more focus
+
+
+
+
+
+
+
+	
+notes
+monkey only one direction, fire.
+ours, seems change in selectivity
+
+suggest, look at viol trials, compare if no fire etc
+
+sx directions, 
+sohortly after the cue onset, fire. bar, sig diff
+other type of neurons, fire before cue onset, predicting the subgoal?
+two peaks, end of going the subgoal, pause, then move again
+after cue onset, as init of movement
+near the end of movement, inhibition? stop the move? oppo direction
+firing after subgoal, goal only?
+less fire duing movemnt, 
+
+same PSTH keep the fomula
+
+pick thetime with most selectivity
+
+look at the population tuning?
+
+3 tyhpe of tuning, strong for 1 dir
+only lef or right, only up, down, strange. should be prob with not enought directions, maybe just boarder tunign curve.
+
+tunig gradually change when cue. 150 200ms, maybe too slow? check with other papers
+
+
+
+
+
+task need time perception,
+related to stress
+
+verbal or not
+
+perception rely on report or jseed the result
+verbal,no need for training
+subject reproduce th time, or report the time
+
+interval, own way to count ??
+
+two task, time perception shouwlb e differnt
+one should be shorting and one longer, so can take abg
+filled, more acurage, maybe some stimuli to distinguish from timings?or just more attention
+
+vision stimulus, for long 60 timing task, oc not audio
+
+
+main probs, 
+counting, just cant stop
+no counting, very bad sense of time
+not enough interval, adds up
+
+more task, coutn/noncount, more intervals
+
+conclusion,
+allow counting
+shorter intervals, seems linear, and estimite the 64s long itv
+
+
+
+q title
+memory allocation
+
+2bit, +-
+decay, feedback,input
+and to final 
+
+matrix as intput
+ndim, 2bit, just 2
+sequence, as another dim
+
+why8point
+4 orginal input, and 4 other stable locations in another plane
+
+b, unique, h, try to get a best solution, repeat, to the target
+
+
+
+working mmeory
+
+single neuron model, decau muh shorter then working mmeoyr of secnods
+
+prev, add a wr input, but exp scale
+now, Wpos, derivative correction the exp decress or incres
+
+
+triplet,stdp 
+
+
+
+
+
+
