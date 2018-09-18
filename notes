@@ -15,6 +15,8 @@ plot of learning
 3 tyhpe of tuning, strong for 1 dir
 only lef or right, only up, down, strange. should be prob with not enought directions, maybe just boarder tunign curve.
 
+
+
 tunig gradually change when cue. 150 200ms, maybe too slow? check with other papers
 
 updated monday:
@@ -26,6 +28,17 @@ decid if raw data not perfect or sorting not perfect
 intergrate raster in daemon
 	also mksure has writing permission
 	saving mat
+
+check saving path thing
+check if can have a standard to cluster cell from different day
+	need to have mat saved
+new raster plot, 
+
+
+
+
+
+
 
 
 
